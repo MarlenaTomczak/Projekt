@@ -1,8 +1,7 @@
-Dominika Domaradzka<<<<<<< HEAD
+Dominika Domaradzka
 Pawe³ Kulikowski
-=======
-Wiktoria Kostyï¿½a 
+Wiktoria Kosty³a 
 Marlena Tomczak
->>>>>>> refs/remotes/origin/projekt
+
 
 
