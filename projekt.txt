@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Pawe³ Kulikowski
+=======
+Wiktoria Kostyï¿½a 
+Marlena Tomczak
+>>>>>>> refs/remotes/origin/projekt
