@@ -1,0 +1,3566 @@
+fileFormatVersion: 2
+guid: 2396bb1117bfa8f4cad65b9add95e32a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 692449461800860824
+    second: Sprout Lands defautlt palette snip_0
+  - first:
+      213: 4670477937431456595
+    second: Sprout Lands defautlt palette snip_1
+  - first:
+      213: -5305683926441347868
+    second: Sprout Lands defautlt palette snip_2
+  - first:
+      213: -3374049046277303285
+    second: Sprout Lands defautlt palette snip_3
+  - first:
+      213: -7610823988411140773
+    second: Sprout Lands defautlt palette snip_4
+  - first:
+      213: 4708016616684561539
+    second: Sprout Lands defautlt palette snip_5
+  - first:
+      213: 2179077453537290935
+    second: Sprout Lands defautlt palette snip_6
+  - first:
+      213: 6729741388604444435
+    second: Sprout Lands defautlt palette snip_7
+  - first:
+      213: 5725339432672380439
+    second: Sprout Lands defautlt palette snip_8
+  - first:
+      213: 3749322042411358476
+    second: Sprout Lands defautlt palette snip_9
+  - first:
+      213: 6814541161441412082
+    second: Sprout Lands defautlt palette snip_10
+  - first:
+      213: 6548459251788545002
+    second: Sprout Lands defautlt palette snip_11
+  - first:
+      213: 8035376433196498535
+    second: Sprout Lands defautlt palette snip_12
+  - first:
+      213: 2735398530515588282
+    second: Sprout Lands defautlt palette snip_13
+  - first:
+      213: -2063470917370084005
+    second: Sprout Lands defautlt palette snip_14
+  - first:
+      213: -8913278299118536517
+    second: Sprout Lands defautlt palette snip_15
+  - first:
+      213: 8786294789025967982
+    second: Sprout Lands defautlt palette snip_16
+  - first:
+      213: -7026247486740933764
+    second: Sprout Lands defautlt palette snip_17
+  - first:
+      213: 2626083453997216717
+    second: Sprout Lands defautlt palette snip_18
+  - first:
+      213: 1519282377038215446
+    second: Sprout Lands defautlt palette snip_19
+  - first:
+      213: 8103176836960751938
+    second: Sprout Lands defautlt palette snip_20
+  - first:
+      213: -3470505659627858521
+    second: Sprout Lands defautlt palette snip_21
+  - first:
+      213: -2438426742993507372
+    second: Sprout Lands defautlt palette snip_22
+  - first:
+      213: -5316755074969616302
+    second: Sprout Lands defautlt palette snip_23
+  - first:
+      213: -1084720607356429852
+    second: Sprout Lands defautlt palette snip_24
+  - first:
+      213: 8310218082046836922
+    second: Sprout Lands defautlt palette snip_25
+  - first:
+      213: 4610761337703208686
+    second: Sprout Lands defautlt palette snip_26
+  - first:
+      213: 3205104472887488348
+    second: Sprout Lands defautlt palette snip_27
+  - first:
+      213: 1814499986409881311
+    second: Sprout Lands defautlt palette snip_28
+  - first:
+      213: 7079279281082074089
+    second: Sprout Lands defautlt palette snip_29
+  - first:
+      213: 7117875248469931617
+    second: Sprout Lands defautlt palette snip_30
+  - first:
+      213: -5626258836667346327
+    second: Sprout Lands defautlt palette snip_31
+  - first:
+      213: -5695876148321477169
+    second: Sprout Lands defautlt palette snip_32
+  - first:
+      213: -3576671499829901389
+    second: Sprout Lands defautlt palette snip_33
+  - first:
+      213: -5707432267606551682
+    second: Sprout Lands defautlt palette snip_34
+  - first:
+      213: 9169983754693407576
+    second: Sprout Lands defautlt palette snip_35
+  - first:
+      213: 4709844005898850765
+    second: Sprout Lands defautlt palette snip_36
+  - first:
+      213: -7222814507200376883
+    second: Sprout Lands defautlt palette snip_37
+  - first:
+      213: -7861603444732517965
+    second: Sprout Lands defautlt palette snip_38
+  - first:
+      213: -3652539114647719276
+    second: Sprout Lands defautlt palette snip_39
+  - first:
+      213: 1344223100568795036
+    second: Sprout Lands defautlt palette snip_40
+  - first:
+      213: -5636709737849387508
+    second: Sprout Lands defautlt palette snip_41
+  - first:
+      213: 5270291478771173655
+    second: Sprout Lands defautlt palette snip_42
+  - first:
+      213: 8552500103074074992
+    second: Sprout Lands defautlt palette snip_43
+  - first:
+      213: 5154224317433106424
+    second: Sprout Lands defautlt palette snip_44
+  - first:
+      213: 7702166695293228381
+    second: Sprout Lands defautlt palette snip_45
+  - first:
+      213: 6587666514229022244
+    second: Sprout Lands defautlt palette snip_46
+  - first:
+      213: 2117605572975583815
+    second: Sprout Lands defautlt palette snip_47
+  - first:
+      213: -1967135332485891708
+    second: Sprout Lands defautlt palette snip_48
+  - first:
+      213: 6967402557426423751
+    second: Sprout Lands defautlt palette snip_49
+  - first:
+      213: 3265982793018636409
+    second: Sprout Lands defautlt palette snip_50
+  - first:
+      213: -2751422443182466420
+    second: Sprout Lands defautlt palette snip_51
+  - first:
+      213: -1244430899231841559
+    second: Sprout Lands defautlt palette snip_52
+  - first:
+      213: -591790447541531936
+    second: Sprout Lands defautlt palette snip_53
+  - first:
+      213: 6332347094600394319
+    second: Sprout Lands defautlt palette snip_54
+  - first:
+      213: 8278316555882447144
+    second: Sprout Lands defautlt palette snip_55
+  - first:
+      213: -8148990199624343974
+    second: Sprout Lands defautlt palette snip_56
+  - first:
+      213: -2240723247236548129
+    second: Sprout Lands defautlt palette snip_57
+  - first:
+      213: 4849587385421711799
+    second: Sprout Lands defautlt palette snip_58
+  - first:
+      213: 1973771680595480929
+    second: Sprout Lands defautlt palette snip_59
+  - first:
+      213: -962720690026443279
+    second: Sprout Lands defautlt palette snip_60
+  - first:
+      213: 2150073931279773574
+    second: Sprout Lands defautlt palette snip_61
+  - first:
+      213: -726789864902886052
+    second: Sprout Lands defautlt palette snip_62
+  - first:
+      213: 7351452414603024011
+    second: Sprout Lands defautlt palette snip_63
+  - first:
+      213: -4420674321426305296
+    second: Sprout Lands defautlt palette snip_64
+  - first:
+      213: 8072653500106491878
+    second: Sprout Lands defautlt palette snip_65
+  - first:
+      213: -4221403851038829078
+    second: Sprout Lands defautlt palette snip_66
+  - first:
+      213: -1752309559422751278
+    second: Sprout Lands defautlt palette snip_67
+  - first:
+      213: -6886956423256735692
+    second: Sprout Lands defautlt palette snip_68
+  - first:
+      213: -6474768893694590087
+    second: Sprout Lands defautlt palette snip_69
+  - first:
+      213: 4100415597525972715
+    second: Sprout Lands defautlt palette snip_70
+  - first:
+      213: -4583015519846510521
+    second: Sprout Lands defautlt palette snip_71
+  - first:
+      213: 7010687020993441903
+    second: Sprout Lands defautlt palette snip_72
+  - first:
+      213: -2167857909448962790
+    second: Sprout Lands defautlt palette snip_73
+  - first:
+      213: -246258102036325094
+    second: Sprout Lands defautlt palette snip_74
+  - first:
+      213: -5106516878235219689
+    second: Sprout Lands defautlt palette snip_75
+  - first:
+      213: 4205344039616005648
+    second: Sprout Lands defautlt palette snip_76
+  - first:
+      213: -626433048005474979
+    second: Sprout Lands defautlt palette snip_77
+  - first:
+      213: 7156060993468194556
+    second: Sprout Lands defautlt palette snip_78
+  - first:
+      213: -564542334922444831
+    second: Sprout Lands defautlt palette snip_79
+  - first:
+      213: 933906284236856168
+    second: Sprout Lands defautlt palette snip_80
+  - first:
+      213: -3107230417162247587
+    second: Sprout Lands defautlt palette snip_81
+  - first:
+      213: 7211912805814661691
+    second: Sprout Lands defautlt palette snip_82
+  - first:
+      213: -4720209980140232039
+    second: Sprout Lands defautlt palette snip_83
+  - first:
+      213: 3809934783906558855
+    second: Sprout Lands defautlt palette snip_84
+  - first:
+      213: -7605057250445854860
+    second: Sprout Lands defautlt palette snip_85
+  - first:
+      213: -6921136586206314501
+    second: Sprout Lands defautlt palette snip_86
+  - first:
+      213: -5655119831990031887
+    second: Sprout Lands defautlt palette snip_87
+  - first:
+      213: 7856004289518873258
+    second: Sprout Lands defautlt palette snip_88
+  - first:
+      213: 2260652325066096629
+    second: Sprout Lands defautlt palette snip_89
+  - first:
+      213: 3362927084571543196
+    second: Sprout Lands defautlt palette snip_90
+  - first:
+      213: -1709462213059353821
+    second: Sprout Lands defautlt palette snip_91
+  - first:
+      213: 688020005847719866
+    second: Sprout Lands defautlt palette snip_92
+  - first:
+      213: -7676067888449674935
+    second: Sprout Lands defautlt palette snip_93
+  - first:
+      213: 7501960378492795465
+    second: Sprout Lands defautlt palette snip_94
+  - first:
+      213: -5322567511838971540
+    second: Sprout Lands defautlt palette snip_95
+  - first:
+      213: -33686125350932486
+    second: Sprout Lands defautlt palette snip_96
+  - first:
+      213: 6584045034197738136
+    second: Sprout Lands defautlt palette snip_97
+  - first:
+      213: 4478785731873800125
+    second: Sprout Lands defautlt palette snip_98
+  - first:
+      213: 6835765431740408697
+    second: Sprout Lands defautlt palette snip_99
+  - first:
+      213: 2346984464973872617
+    second: Sprout Lands defautlt palette snip_100
+  - first:
+      213: -462004253171437048
+    second: Sprout Lands defautlt palette snip_101
+  - first:
+      213: 6218243410114640659
+    second: Sprout Lands defautlt palette snip_102
+  - first:
+      213: 7456070176864488043
+    second: Sprout Lands defautlt palette snip_103
+  - first:
+      213: 3234421737850990707
+    second: Sprout Lands defautlt palette snip_104
+  - first:
+      213: -9156178195540961575
+    second: Sprout Lands defautlt palette snip_105
+  - first:
+      213: -2346464944432897372
+    second: Sprout Lands defautlt palette snip_106
+  - first:
+      213: -1970000336600253822
+    second: Sprout Lands defautlt palette snip_107
+  - first:
+      213: -7839388368539222143
+    second: Sprout Lands defautlt palette snip_108
+  - first:
+      213: 5728480916236348823
+    second: Sprout Lands defautlt palette snip_109
+  - first:
+      213: -9140441788947914619
+    second: Sprout Lands defautlt palette snip_110
+  - first:
+      213: 7992635868876108325
+    second: Sprout Lands defautlt palette snip_111
+  - first:
+      213: 5100066858243595807
+    second: Sprout Lands defautlt palette snip_112
+  - first:
+      213: 7564879726965577965
+    second: Sprout Lands defautlt palette snip_113
+  - first:
+      213: 5374836682841197517
+    second: Sprout Lands defautlt palette snip_114
+  - first:
+      213: -3281506699089697570
+    second: Sprout Lands defautlt palette snip_115
+  - first:
+      213: -1728235209824454527
+    second: Sprout Lands defautlt palette snip_116
+  - first:
+      213: 810444705032936272
+    second: Sprout Lands defautlt palette snip_117
+  - first:
+      213: 5951522639550430739
+    second: Sprout Lands defautlt palette snip_118
+  - first:
+      213: 3481423692107890156
+    second: Sprout Lands defautlt palette snip_119
+  - first:
+      213: -6581135117369688424
+    second: Sprout Lands defautlt palette snip_120
+  - first:
+      213: 1462700675793218346
+    second: Sprout Lands defautlt palette snip_121
+  - first:
+      213: -5430926673255882984
+    second: Sprout Lands defautlt palette snip_122
+  - first:
+      213: 2798130574554099840
+    second: Sprout Lands defautlt palette snip_123
+  - first:
+      213: 7842274486121542085
+    second: Sprout Lands defautlt palette snip_124
+  - first:
+      213: 3879305523928733631
+    second: Sprout Lands defautlt palette snip_125
+  - first:
+      213: 3008412453109352078
+    second: Sprout Lands defautlt palette snip_126
+  - first:
+      213: -5447206348461212156
+    second: Sprout Lands defautlt palette snip_127
+  - first:
+      213: -6802464796099674546
+    second: Sprout Lands defautlt palette snip_128
+  - first:
+      213: 9042813652235586984
+    second: Sprout Lands defautlt palette snip_129
+  - first:
+      213: 2797553227928683201
+    second: Sprout Lands defautlt palette snip_130
+  - first:
+      213: -334064853988263189
+    second: Sprout Lands defautlt palette snip_131
+  - first:
+      213: -6450900139156767645
+    second: Sprout Lands defautlt palette snip_132
+  - first:
+      213: 685807878072877785
+    second: Sprout Lands defautlt palette snip_133
+  - first:
+      213: 3402618109679960299
+    second: Sprout Lands defautlt palette snip_134
+  - first:
+      213: -4150484721194143791
+    second: Sprout Lands defautlt palette snip_135
+  - first:
+      213: 4355038280912579166
+    second: Sprout Lands defautlt palette snip_136
+  - first:
+      213: -6507256115442293502
+    second: Sprout Lands defautlt palette snip_137
+  - first:
+      213: -2814203006532972896
+    second: Sprout Lands defautlt palette snip_138
+  - first:
+      213: 3700842118113187600
+    second: Sprout Lands defautlt palette snip_139
+  - first:
+      213: -2722156157783121974
+    second: Sprout Lands defautlt palette snip_140
+  - first:
+      213: 7367845315808550892
+    second: Sprout Lands defautlt palette snip_141
+  - first:
+      213: -6062153559148454465
+    second: Sprout Lands defautlt palette snip_142
+  - first:
+      213: -1744644898599280052
+    second: Sprout Lands defautlt palette snip_143
+  - first:
+      213: 1584329904662731673
+    second: Sprout Lands defautlt palette snip_144
+  - first:
+      213: 7025120791490129652
+    second: Sprout Lands defautlt palette snip_145
+  - first:
+      213: -623229242270281946
+    second: Sprout Lands defautlt palette snip_146
+  - first:
+      213: -6744663126449268594
+    second: Sprout Lands defautlt palette snip_147
+  - first:
+      213: 3868851780690776834
+    second: Sprout Lands defautlt palette snip_148
+  - first:
+      213: 1968749163558642392
+    second: Sprout Lands defautlt palette snip_149
+  - first:
+      213: 886883750544197484
+    second: Sprout Lands defautlt palette snip_150
+  - first:
+      213: 1469737705368804593
+    second: Sprout Lands defautlt palette snip_151
+  - first:
+      213: 1294919855449263374
+    second: Sprout Lands defautlt palette snip_152
+  - first:
+      213: -4402637467437629537
+    second: Sprout Lands defautlt palette snip_153
+  - first:
+      213: -5361024839297701104
+    second: Sprout Lands defautlt palette snip_154
+  - first:
+      213: -4891405901648757094
+    second: Sprout Lands defautlt palette snip_155
+  - first:
+      213: 4108928347807799808
+    second: Sprout Lands defautlt palette snip_156
+  - first:
+      213: 6391814196276792627
+    second: Sprout Lands defautlt palette snip_157
+  - first:
+      213: 2553093232987550717
+    second: Sprout Lands defautlt palette snip_158
+  - first:
+      213: 5588213492512958019
+    second: Sprout Lands defautlt palette snip_159
+  - first:
+      213: 9054051335069226871
+    second: Sprout Lands defautlt palette snip_160
+  - first:
+      213: 3650642406539936905
+    second: Sprout Lands defautlt palette snip_161
+  - first:
+      213: -8334383011151152155
+    second: Sprout Lands defautlt palette snip_162
+  - first:
+      213: 5361615147589298350
+    second: Sprout Lands defautlt palette snip_163
+  - first:
+      213: -5737989358228632444
+    second: Sprout Lands defautlt palette snip_164
+  - first:
+      213: 1322057050189329109
+    second: Sprout Lands defautlt palette snip_165
+  - first:
+      213: -7930545969471851420
+    second: Sprout Lands defautlt palette snip_166
+  - first:
+      213: 974061822474903112
+    second: Sprout Lands defautlt palette snip_167
+  - first:
+      213: 2265470944729801722
+    second: Sprout Lands defautlt palette snip_168
+  - first:
+      213: 8969238674460263877
+    second: Sprout Lands defautlt palette snip_169
+  - first:
+      213: -379386463257113931
+    second: Sprout Lands defautlt palette snip_170
+  - first:
+      213: -4966764373423068398
+    second: Sprout Lands defautlt palette snip_171
+  - first:
+      213: 6566999477554161966
+    second: Sprout Lands defautlt palette snip_172
+  - first:
+      213: 7368312079606415903
+    second: Sprout Lands defautlt palette snip_173
+  - first:
+      213: 8972516310529495176
+    second: Sprout Lands defautlt palette snip_174
+  - first:
+      213: 8081505544408004789
+    second: Sprout Lands defautlt palette snip_175
+  - first:
+      213: 3362123203189949212
+    second: Sprout Lands defautlt palette snip_176
+  - first:
+      213: -3348023037969024441
+    second: Sprout Lands defautlt palette snip_177
+  - first:
+      213: -3582011799884383725
+    second: Sprout Lands defautlt palette snip_178
+  - first:
+      213: -3949834237599164565
+    second: Sprout Lands defautlt palette snip_179
+  - first:
+      213: 2793775881712915762
+    second: Sprout Lands defautlt palette snip_180
+  - first:
+      213: -7758025284777805877
+    second: Sprout Lands defautlt palette snip_181
+  - first:
+      213: 7713374302987902733
+    second: Sprout Lands defautlt palette snip_182
+  - first:
+      213: 4319483350801073114
+    second: Sprout Lands defautlt palette snip_183
+  - first:
+      213: -7406032720531775951
+    second: Sprout Lands defautlt palette snip_184
+  - first:
+      213: 6929755782006316690
+    second: Sprout Lands defautlt palette snip_185
+  - first:
+      213: 524473199454704084
+    second: Sprout Lands defautlt palette snip_186
+  - first:
+      213: -7993684282792331797
+    second: Sprout Lands defautlt palette snip_187
+  - first:
+      213: -2274523021890973321
+    second: Sprout Lands defautlt palette snip_188
+  - first:
+      213: 5244802359186868945
+    second: Sprout Lands defautlt palette snip_189
+  - first:
+      213: -832851004208336532
+    second: Sprout Lands defautlt palette snip_190
+  - first:
+      213: -8117543777107465990
+    second: Sprout Lands defautlt palette snip_191
+  - first:
+      213: -8574040129704391683
+    second: Sprout Lands defautlt palette snip_192
+  - first:
+      213: 1294852576281032623
+    second: Sprout Lands defautlt palette snip_193
+  - first:
+      213: 2175615044405020391
+    second: Sprout Lands defautlt palette snip_194
+  - first:
+      213: -2714638166986824498
+    second: Sprout Lands defautlt palette snip_195
+  - first:
+      213: 1367939035137029586
+    second: Sprout Lands defautlt palette snip_196
+  - first:
+      213: -8150943755295585950
+    second: Sprout Lands defautlt palette snip_197
+  - first:
+      213: 245847416692944595
+    second: Sprout Lands defautlt palette snip_198
+  - first:
+      213: -1236914045458980712
+    second: Sprout Lands defautlt palette snip_199
+  - first:
+      213: -5955377477270154072
+    second: Sprout Lands defautlt palette snip_200
+  - first:
+      213: -9097328695420717503
+    second: Sprout Lands defautlt palette snip_201
+  - first:
+      213: 7250188974556613865
+    second: Sprout Lands defautlt palette snip_202
+  - first:
+      213: 5576816195639589249
+    second: Sprout Lands defautlt palette snip_203
+  - first:
+      213: 4918986901824397810
+    second: Sprout Lands defautlt palette snip_204
+  - first:
+      213: 8201637649881239266
+    second: Sprout Lands defautlt palette snip_205
+  - first:
+      213: -3756110266208439262
+    second: Sprout Lands defautlt palette snip_206
+  - first:
+      213: -3011840346338767245
+    second: Sprout Lands defautlt palette snip_207
+  - first:
+      213: -413908025026141932
+    second: Sprout Lands defautlt palette snip_208
+  - first:
+      213: -2015734795213723691
+    second: Sprout Lands defautlt palette snip_209
+  - first:
+      213: -7477138885023453818
+    second: Sprout Lands defautlt palette snip_210
+  - first:
+      213: 59970900760048325
+    second: Sprout Lands defautlt palette snip_211
+  - first:
+      213: 3471208544663744669
+    second: Sprout Lands defautlt palette snip_212
+  - first:
+      213: -1913126404078899558
+    second: Sprout Lands defautlt palette snip_213
+  - first:
+      213: -6215571395716763656
+    second: Sprout Lands defautlt palette snip_214
+  - first:
+      213: 6429516459327459585
+    second: Sprout Lands defautlt palette snip_215
+  - first:
+      213: -9173284259427216218
+    second: Sprout Lands defautlt palette snip_216
+  - first:
+      213: -7585095704042297912
+    second: Sprout Lands defautlt palette snip_217
+  - first:
+      213: -8508929680663167576
+    second: Sprout Lands defautlt palette snip_218
+  - first:
+      213: -5017262377852693937
+    second: Sprout Lands defautlt palette snip_219
+  - first:
+      213: 439371555400890801
+    second: Sprout Lands defautlt palette snip_220
+  - first:
+      213: -5586355964508823725
+    second: Sprout Lands defautlt palette snip_221
+  - first:
+      213: -3647799955028392175
+    second: Sprout Lands defautlt palette snip_222
+  - first:
+      213: -638031038529266599
+    second: Sprout Lands defautlt palette snip_223
+  - first:
+      213: 7757312976496268224
+    second: Sprout Lands defautlt palette snip_224
+  - first:
+      213: 4256150483097376425
+    second: Sprout Lands defautlt palette snip_225
+  - first:
+      213: -5453186933279156173
+    second: Sprout Lands defautlt palette snip_226
+  - first:
+      213: 2242590583932046350
+    second: Sprout Lands defautlt palette snip_227
+  - first:
+      213: 6468149753164063446
+    second: Sprout Lands defautlt palette snip_228
+  - first:
+      213: -8825700987262977659
+    second: Sprout Lands defautlt palette snip_229
+  - first:
+      213: -299982786797872378
+    second: Sprout Lands defautlt palette snip_230
+  - first:
+      213: -3503773212706602865
+    second: Sprout Lands defautlt palette snip_231
+  - first:
+      213: -6837612915011235379
+    second: Sprout Lands defautlt palette snip_232
+  - first:
+      213: 3919934664611450957
+    second: Sprout Lands defautlt palette snip_233
+  - first:
+      213: 3944482894706773213
+    second: Sprout Lands defautlt palette snip_234
+  - first:
+      213: 3321514972344968798
+    second: Sprout Lands defautlt palette snip_235
+  - first:
+      213: 803728841074895671
+    second: Sprout Lands defautlt palette snip_236
+  - first:
+      213: -7975511785107254932
+    second: Sprout Lands defautlt palette snip_237
+  - first:
+      213: 1742433668456688878
+    second: Sprout Lands defautlt palette snip_238
+  - first:
+      213: 1194567845005676122
+    second: Sprout Lands defautlt palette snip_239
+  - first:
+      213: 5870137284119738714
+    second: Sprout Lands defautlt palette snip_240
+  - first:
+      213: -2973809675550460357
+    second: Sprout Lands defautlt palette snip_241
+  - first:
+      213: -2197267865978584602
+    second: Sprout Lands defautlt palette snip_242
+  - first:
+      213: -1995480642609960209
+    second: Sprout Lands defautlt palette snip_243
+  - first:
+      213: -6542930203522025543
+    second: Sprout Lands defautlt palette snip_244
+  - first:
+      213: 3058166701808420661
+    second: Sprout Lands defautlt palette snip_245
+  - first:
+      213: 3458941493181001442
+    second: Sprout Lands defautlt palette snip_246
+  - first:
+      213: 1392638014013650533
+    second: Sprout Lands defautlt palette snip_247
+  - first:
+      213: 1171081845174188826
+    second: Sprout Lands defautlt palette snip_248
+  - first:
+      213: 3843349995021293608
+    second: Sprout Lands defautlt palette snip_249
+  - first:
+      213: 8272333603223866336
+    second: Sprout Lands defautlt palette snip_250
+  - first:
+      213: -4222063931174636440
+    second: Sprout Lands defautlt palette snip_251
+  - first:
+      213: 937174928485091912
+    second: Sprout Lands defautlt palette snip_252
+  - first:
+      213: -8656201365692520505
+    second: Sprout Lands defautlt palette snip_253
+  - first:
+      213: -8772611404217185847
+    second: Sprout Lands defautlt palette snip_254
+  - first:
+      213: 2375277970948557186
+    second: Sprout Lands defautlt palette snip_255
+  - first:
+      213: -2856813331002456985
+    second: Sprout Lands defautlt palette snip_256
+  - first:
+      213: -5994540491675694161
+    second: Sprout Lands defautlt palette snip_257
+  - first:
+      213: 4833969791618974502
+    second: Sprout Lands defautlt palette snip_258
+  - first:
+      213: -4377281956220824413
+    second: Sprout Lands defautlt palette snip_259
+  - first:
+      213: -4627084288166788906
+    second: Sprout Lands defautlt palette snip_260
+  - first:
+      213: -5200030393224020696
+    second: Sprout Lands defautlt palette snip_261
+  - first:
+      213: -7619375401205328932
+    second: Sprout Lands defautlt palette snip_262
+  - first:
+      213: 6634787910898633256
+    second: Sprout Lands defautlt palette snip_263
+  - first:
+      213: 9183639725563268133
+    second: Sprout Lands defautlt palette snip_264
+  - first:
+      213: -8630302044914821104
+    second: Sprout Lands defautlt palette snip_265
+  - first:
+      213: -4425881036462950629
+    second: Sprout Lands defautlt palette snip_266
+  - first:
+      213: 6962327257046764855
+    second: Sprout Lands defautlt palette snip_267
+  - first:
+      213: 8253889913013260853
+    second: Sprout Lands defautlt palette snip_268
+  - first:
+      213: -6778390424008407057
+    second: Sprout Lands defautlt palette snip_269
+  - first:
+      213: -5167012883857599568
+    second: Sprout Lands defautlt palette snip_270
+  - first:
+      213: -8505666698630649687
+    second: Sprout Lands defautlt palette snip_271
+  - first:
+      213: 886880111219811390
+    second: Sprout Lands defautlt palette snip_272
+  - first:
+      213: -3347586062468632146
+    second: Sprout Lands defautlt palette snip_273
+  - first:
+      213: -2013958790748474562
+    second: Sprout Lands defautlt palette snip_274
+  - first:
+      213: -177833971046642247
+    second: Sprout Lands defautlt palette snip_275
+  - first:
+      213: -4823303656305399144
+    second: Sprout Lands defautlt palette snip_276
+  - first:
+      213: -6002254588854248243
+    second: Sprout Lands defautlt palette snip_277
+  - first:
+      213: 4741507132097020038
+    second: Sprout Lands defautlt palette snip_278
+  - first:
+      213: -6146167190803034055
+    second: Sprout Lands defautlt palette snip_279
+  - first:
+      213: 472147411385262905
+    second: Sprout Lands defautlt palette snip_280
+  - first:
+      213: -6904981509981192352
+    second: Sprout Lands defautlt palette snip_281
+  - first:
+      213: -8157735467459912060
+    second: Sprout Lands defautlt palette snip_282
+  - first:
+      213: 7521933547368087829
+    second: Sprout Lands defautlt palette snip_283
+  - first:
+      213: 2222574613729512931
+    second: Sprout Lands defautlt palette snip_284
+  - first:
+      213: -5310687214790304798
+    second: Sprout Lands defautlt palette snip_285
+  - first:
+      213: 6729521983241315994
+    second: Sprout Lands defautlt palette snip_286
+  - first:
+      213: 3449220973541516196
+    second: Sprout Lands defautlt palette snip_287
+  - first:
+      213: 7239834345166768204
+    second: Sprout Lands defautlt palette snip_288
+  - first:
+      213: 7608398754921779065
+    second: Sprout Lands defautlt palette snip_289
+  - first:
+      213: 4547541135892130595
+    second: Sprout Lands defautlt palette snip_290
+  - first:
+      213: -643525719565305472
+    second: Sprout Lands defautlt palette snip_291
+  - first:
+      213: -2662498087509213395
+    second: Sprout Lands defautlt palette snip_292
+  - first:
+      213: 6299057264726679454
+    second: Sprout Lands defautlt palette snip_293
+  - first:
+      213: 2359976157031626006
+    second: Sprout Lands defautlt palette snip_294
+  - first:
+      213: -5854248177790756951
+    second: Sprout Lands defautlt palette snip_295
+  - first:
+      213: 7418314458293897619
+    second: Sprout Lands defautlt palette snip_296
+  - first:
+      213: 8201163011862747410
+    second: Sprout Lands defautlt palette snip_297
+  - first:
+      213: -1249992138752587125
+    second: Sprout Lands defautlt palette snip_298
+  - first:
+      213: 759944877814365809
+    second: Sprout Lands defautlt palette snip_299
+  - first:
+      213: -5438167025596467602
+    second: Sprout Lands defautlt palette snip_300
+  - first:
+      213: -7783131892299706798
+    second: Sprout Lands defautlt palette snip_301
+  - first:
+      213: 1297314872913982155
+    second: Sprout Lands defautlt palette snip_302
+  - first:
+      213: -6882288076641467994
+    second: Sprout Lands defautlt palette snip_303
+  - first:
+      213: -9128882557947951660
+    second: Sprout Lands defautlt palette snip_304
+  - first:
+      213: 5690008912706899575
+    second: Sprout Lands defautlt palette snip_305
+  - first:
+      213: -8820637413750531787
+    second: Sprout Lands defautlt palette snip_306
+  - first:
+      213: -5565248423907751804
+    second: Sprout Lands defautlt palette snip_307
+  - first:
+      213: 6915206244535179625
+    second: Sprout Lands defautlt palette snip_308
+  - first:
+      213: -902705979742142041
+    second: Sprout Lands defautlt palette snip_309
+  - first:
+      213: 7642906893540839739
+    second: Sprout Lands defautlt palette snip_310
+  - first:
+      213: -5600895769083627538
+    second: Sprout Lands defautlt palette snip_311
+  - first:
+      213: -2372796215800666671
+    second: Sprout Lands defautlt palette snip_312
+  - first:
+      213: 8634261222103195515
+    second: Sprout Lands defautlt palette snip_313
+  - first:
+      213: -5359090388110469503
+    second: Sprout Lands defautlt palette snip_314
+  - first:
+      213: -1706343189183943076
+    second: Sprout Lands defautlt palette snip_315
+  - first:
+      213: -2531049917929430321
+    second: Sprout Lands defautlt palette snip_316
+  - first:
+      213: -7277856815869904559
+    second: Sprout Lands defautlt palette snip_317
+  - first:
+      213: -2065024058969311879
+    second: Sprout Lands defautlt palette snip_318
+  - first:
+      213: 5435712645822635945
+    second: Sprout Lands defautlt palette snip_319
+  - first:
+      213: -2380215782319841693
+    second: Sprout Lands defautlt palette snip_320
+  - first:
+      213: 1108603110936908839
+    second: Sprout Lands defautlt palette snip_321
+  - first:
+      213: -9118868024232534766
+    second: Sprout Lands defautlt palette snip_0
+  - first:
+      213: 8419692362384397347
+    second: Sprout Lands defautlt palette snip_1
+  - first:
+      213: -5276150871554048732
+    second: Sprout Lands defautlt palette snip_2
+  - first:
+      213: 7036879985899001717
+    second: Sprout Lands defautlt palette snip_3
+  - first:
+      213: 3349779804687617536
+    second: Sprout Lands defautlt palette snip_4
+  - first:
+      213: 7306764817030251632
+    second: Sprout Lands defautlt palette snip_5
+  - first:
+      213: 5188373754233221543
+    second: Sprout Lands defautlt palette snip_6
+  - first:
+      213: 3516629728636421719
+    second: Sprout Lands defautlt palette snip_7
+  - first:
+      213: -114127451858274499
+    second: Sprout Lands defautlt palette snip_8
+  - first:
+      213: -7900105676155503222
+    second: Sprout Lands defautlt palette snip_9
+  - first:
+      213: -2311143116963663094
+    second: Sprout Lands defautlt palette snip_10
+  - first:
+      213: -1121966450898148229
+    second: Sprout Lands defautlt palette snip_11
+  - first:
+      213: -938065511373697721
+    second: Sprout Lands defautlt palette snip_12
+  - first:
+      213: 4232260805602109343
+    second: Sprout Lands defautlt palette snip_13
+  - first:
+      213: -8435486164019486502
+    second: Sprout Lands defautlt palette snip_14
+  - first:
+      213: 5923987498238805164
+    second: Sprout Lands defautlt palette snip_15
+  - first:
+      213: 417001677917032730
+    second: Sprout Lands defautlt palette snip_16
+  - first:
+      213: 2415838099697577172
+    second: Sprout Lands defautlt palette snip_17
+  - first:
+      213: 3435131753670879365
+    second: Sprout Lands defautlt palette snip_18
+  - first:
+      213: 3136191838730273684
+    second: Sprout Lands defautlt palette snip_19
+  - first:
+      213: -2867947068451792611
+    second: Sprout Lands defautlt palette snip_20
+  - first:
+      213: -7992711347792265527
+    second: Sprout Lands defautlt palette snip_21
+  - first:
+      213: 9026353585081554191
+    second: Sprout Lands defautlt palette snip_22
+  - first:
+      213: 8467445995672583647
+    second: Sprout Lands defautlt palette snip_23
+  - first:
+      213: 2434581322189822664
+    second: Sprout Lands defautlt palette snip_24
+  - first:
+      213: 5637172846428431161
+    second: Sprout Lands defautlt palette snip_25
+  - first:
+      213: 8312881972131427111
+    second: Sprout Lands defautlt palette snip_26
+  - first:
+      213: 8521996477027806649
+    second: Sprout Lands defautlt palette snip_27
+  - first:
+      213: 8947647557211550800
+    second: Sprout Lands defautlt palette snip_28
+  - first:
+      213: -5030802000504544882
+    second: Sprout Lands defautlt palette snip_29
+  - first:
+      213: -6550467120425317820
+    second: Sprout Lands defautlt palette snip_30
+  - first:
+      213: 4364825248055326322
+    second: Sprout Lands defautlt palette snip_31
+  - first:
+      213: -7349593400168714719
+    second: Sprout Lands defautlt palette snip_32
+  - first:
+      213: -2957801642736417610
+    second: Sprout Lands defautlt palette snip_33
+  - first:
+      213: 504289985335484161
+    second: Sprout Lands defautlt palette snip_34
+  - first:
+      213: -3072128284068954135
+    second: Sprout Lands defautlt palette snip_35
+  - first:
+      213: 3698345580596816487
+    second: Sprout Lands defautlt palette snip_36
+  - first:
+      213: -1149268485052287993
+    second: Sprout Lands defautlt palette snip_37
+  - first:
+      213: 5495062089262983155
+    second: Sprout Lands defautlt palette snip_38
+  - first:
+      213: -2249716747881775535
+    second: Sprout Lands defautlt palette snip_39
+  - first:
+      213: 8363445301273788910
+    second: Sprout Lands defautlt palette snip_40
+  - first:
+      213: -6613830293466904269
+    second: Sprout Lands defautlt palette snip_41
+  - first:
+      213: 1583398778833079380
+    second: Sprout Lands defautlt palette snip_42
+  - first:
+      213: -1242958533539900577
+    second: Sprout Lands defautlt palette snip_43
+  - first:
+      213: 617845480524019803
+    second: Sprout Lands defautlt palette snip_44
+  - first:
+      213: 1693652571505467523
+    second: Sprout Lands defautlt palette snip_45
+  - first:
+      213: 4554541122289277550
+    second: Sprout Lands defautlt palette snip_46
+  - first:
+      213: 386304780395985436
+    second: Sprout Lands defautlt palette snip_47
+  - first:
+      213: 3094434391955008013
+    second: Sprout Lands defautlt palette snip_48
+  - first:
+      213: 3792342560743190992
+    second: Sprout Lands defautlt palette snip_49
+  - first:
+      213: -4640978973021694159
+    second: Sprout Lands defautlt palette snip_50
+  - first:
+      213: 6312304427977146304
+    second: Sprout Lands defautlt palette snip_51
+  - first:
+      213: 4448203496176455047
+    second: Sprout Lands defautlt palette snip_52
+  - first:
+      213: -1348278676713789296
+    second: Sprout Lands defautlt palette snip_53
+  - first:
+      213: 5844183193173089598
+    second: Sprout Lands defautlt palette snip_54
+  - first:
+      213: -2087358908007486311
+    second: Sprout Lands defautlt palette snip_55
+  - first:
+      213: -3560660263172964937
+    second: Sprout Lands defautlt palette snip_56
+  - first:
+      213: -3006869409129515200
+    second: Sprout Lands defautlt palette snip_57
+  - first:
+      213: -2856745639567407805
+    second: Sprout Lands defautlt palette snip_58
+  - first:
+      213: 7630522076885454373
+    second: Sprout Lands defautlt palette snip_59
+  - first:
+      213: 2416906580413783969
+    second: Sprout Lands defautlt palette snip_60
+  - first:
+      213: -1870489823092844784
+    second: Sprout Lands defautlt palette snip_61
+  - first:
+      213: 1608727229628047348
+    second: Sprout Lands defautlt palette snip_62
+  - first:
+      213: 2289594513217472170
+    second: Sprout Lands defautlt palette snip_63
+  - first:
+      213: -7041998825281271533
+    second: Sprout Lands defautlt palette snip_64
+  - first:
+      213: -2124175485300093820
+    second: Sprout Lands defautlt palette snip_65
+  - first:
+      213: 2510967267344693832
+    second: Sprout Lands defautlt palette snip_66
+  - first:
+      213: -6981628400038732005
+    second: Sprout Lands defautlt palette snip_67
+  - first:
+      213: 411943630057068148
+    second: Sprout Lands defautlt palette snip_68
+  - first:
+      213: -8202535161153165329
+    second: Sprout Lands defautlt palette snip_69
+  - first:
+      213: 6931992651201617449
+    second: Sprout Lands defautlt palette snip_70
+  - first:
+      213: -7169626599630522494
+    second: Sprout Lands defautlt palette snip_71
+  - first:
+      213: 4434936865194222412
+    second: Sprout Lands defautlt palette snip_72
+  - first:
+      213: -6555902295705462823
+    second: Sprout Lands defautlt palette snip_73
+  - first:
+      213: -8784430576249313921
+    second: Sprout Lands defautlt palette snip_74
+  - first:
+      213: -5970163760991853440
+    second: Sprout Lands defautlt palette snip_75
+  - first:
+      213: 4487491243852179064
+    second: Sprout Lands defautlt palette snip_76
+  - first:
+      213: 5771736016925528123
+    second: Sprout Lands defautlt palette snip_77
+  - first:
+      213: 7029264554700840861
+    second: Sprout Lands defautlt palette snip_78
+  - first:
+      213: -1029148540442716738
+    second: Sprout Lands defautlt palette snip_79
+  - first:
+      213: 2076790928548331591
+    second: Sprout Lands defautlt palette snip_80
+  - first:
+      213: 9105037789660284993
+    second: Sprout Lands defautlt palette snip_81
+  - first:
+      213: -5544643804539143406
+    second: Sprout Lands defautlt palette snip_82
+  - first:
+      213: 8887865799545109196
+    second: Sprout Lands defautlt palette snip_83
+  - first:
+      213: 7081963933483598337
+    second: Sprout Lands defautlt palette snip_84
+  - first:
+      213: 9005495390360427325
+    second: Sprout Lands defautlt palette snip_85
+  - first:
+      213: -98926272516497598
+    second: Sprout Lands defautlt palette snip_86
+  - first:
+      213: -6588056848815064203
+    second: Sprout Lands defautlt palette snip_87
+  - first:
+      213: 5929890001972152647
+    second: Sprout Lands defautlt palette snip_88
+  - first:
+      213: -3235046137984392251
+    second: Sprout Lands defautlt palette snip_89
+  - first:
+      213: 6988156570289099640
+    second: Sprout Lands defautlt palette snip_90
+  - first:
+      213: 4043351489063801414
+    second: Sprout Lands defautlt palette snip_91
+  - first:
+      213: -8059761512743995790
+    second: Sprout Lands defautlt palette snip_92
+  - first:
+      213: -4298630107028452439
+    second: Sprout Lands defautlt palette snip_93
+  - first:
+      213: -5057315052821555974
+    second: Sprout Lands defautlt palette snip_94
+  - first:
+      213: 9053145424160129185
+    second: Sprout Lands defautlt palette snip_95
+  - first:
+      213: 7903703008588494280
+    second: Sprout Lands defautlt palette snip_96
+  - first:
+      213: -8261087071775931812
+    second: Sprout Lands defautlt palette snip_97
+  - first:
+      213: -2842181559405401624
+    second: Sprout Lands defautlt palette snip_98
+  - first:
+      213: -7039463642777672537
+    second: Sprout Lands defautlt palette snip_99
+  - first:
+      213: 4900485457891285397
+    second: Sprout Lands defautlt palette snip_100
+  - first:
+      213: 90574335634183092
+    second: Sprout Lands defautlt palette snip_101
+  - first:
+      213: 4559411447197879711
+    second: Sprout Lands defautlt palette snip_102
+  - first:
+      213: -808889623124321219
+    second: Sprout Lands defautlt palette snip_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfc83ed131c9900800000000000000
+      internalID: 692449461800860824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ba6e750fed0d040800000000000000
+      internalID: 4670477937431456595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b6f1649c6e56b0800000000000000
+      internalID: -5305683926441347868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0455e5d448fc21d0800000000000000
+      internalID: -3374049046277303285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b557bba08ebe06690800000000000000
+      internalID: -7610823988411140773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ae123b2c365140800000000000000
+      internalID: 4708016616684561539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba27241663ad3e10800000000000000
+      internalID: 2179077453537290935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 336
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f03022328d46d50800000000000000
+      internalID: 6729741388604444435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71649fe31ed747f40800000000000000
+      internalID: 5725339432672380439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0998766884480430800000000000000
+      internalID: 3749322042411358476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f34ef2d41d129e50800000000000000
+      internalID: 6814541161441412082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebf9f88efcc0ea50800000000000000
+      internalID: 6548459251788545002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef831fa44638f60800000000000000
+      internalID: 8035376433196498535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d182887616f520800000000000000
+      internalID: 2735398530515588282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558ec522241d53e0800000000000000
+      internalID: -2063470917370084005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 309
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb877dc8c9cad4480800000000000000
+      internalID: -8913278299118536517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f22cf0f803fe970800000000000000
+      internalID: 8786294789025967982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7353d03321cd7e90800000000000000
+      internalID: -7026247486740933764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f802ecf8b17420800000000000000
+      internalID: 2626083453997216717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619bfdcb543951510800000000000000
+      internalID: 1519282377038215446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24118379664447070800000000000000
+      internalID: 8103176836960751938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a516e67d7946dfc0800000000000000
+      internalID: -3470505659627858521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2f0debc7f82ed0800000000000000
+      internalID: -2438426742993507372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 282
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2504eaebd671736b0800000000000000
+      internalID: -5316755074969616302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e959fdca5c42f0f0800000000000000
+      internalID: -1084720607356429852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab00e62f053d35370800000000000000
+      internalID: 8310218082046836922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee697edf107bcff30800000000000000
+      internalID: 4610761337703208686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f69766981da7c20800000000000000
+      internalID: 3205104472887488348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde79eebf166e2910800000000000000
+      internalID: 1814499986409881311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e30eae9ff6ae3260800000000000000
+      internalID: 7079279281082074089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166789c83d5c7c260800000000000000
+      internalID: 7117875248469931617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625a02b5638be1b0800000000000000
+      internalID: -5626258836667346327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9da632de24f0b0800000000000000
+      internalID: -5695876148321477169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7006e883c1d5ec0800000000000000
+      internalID: -3576671499829901389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7395b587902bc0b0800000000000000
+      internalID: -5707432267606551682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537a96e3a3524f70800000000000000
+      internalID: 9169983754693407576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc19a176b2abc5140800000000000000
+      internalID: 4709844005898850765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf88cb497863cb90800000000000000
+      internalID: -7222814507200376883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b12bbfc159f5e290800000000000000
+      internalID: -7861603444732517965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 228
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f337f6039f4dc0800000000000000
+      internalID: -3652539114647719276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f648b9c3a7a210800000000000000
+      internalID: 1344223100568795036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c068085ab5266c1b0800000000000000
+      internalID: -5636709737849387508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198cee3d26d32940800000000000000
+      internalID: 5270291478771173655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d839d78590b670800000000000000
+      internalID: 8552500103074074992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc74d55bb778740800000000000000
+      internalID: 5154224317433106424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d551cc13dc793ea60800000000000000
+      internalID: 7702166695293228381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4b5faac71c6b50800000000000000
+      internalID: 6587666514229022244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742e89f8c0f336d10800000000000000
+      internalID: 2117605572975583815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fe0266d453b4e0800000000000000
+      internalID: -1967135332485891708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7dc8a06bf21b060800000000000000
+      internalID: 6967402557426423751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978f96cdb0a135d20800000000000000
+      internalID: 3265982793018636409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a52179ddbf0d9d0800000000000000
+      internalID: -2751422443182466420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e224cfb0b4eabee0800000000000000
+      internalID: -1244430899231841559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea41d039b989c7f0800000000000000
+      internalID: -591790447541531936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462220e12401e750800000000000000
+      internalID: 6332347094600394319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_55
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821cb931c0d72e270800000000000000
+      internalID: 8278316555882447144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5041b698f8ee80800000000000000
+      internalID: -8148990199624343974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97188141a57e0e0800000000000000
+      internalID: -2240723247236548129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c64768023d4340800000000000000
+      internalID: 4849587385421711799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1619e91d2ee346b10800000000000000
+      internalID: 1973771680595480929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0e0512aab3a2f0800000000000000
+      internalID: -962720690026443279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f22c259d896dd10800000000000000
+      internalID: 2150073931279773574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfb14f77ce9e5f0800000000000000
+      internalID: -726789864902886052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 147
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d99b750b950660800000000000000
+      internalID: 7351452414603024011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea1bb502c96a2c0800000000000000
+      internalID: -4420674321426305296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e749ac6693d70070800000000000000
+      internalID: 8072653500106491878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55d5d309f8a65c0800000000000000
+      internalID: -4221403851038829078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_67
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde5166dbb8ea7e0800000000000000
+      internalID: -1752309559422751278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43000382f9d9c60a0800000000000000
+      internalID: -6886956423256735692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c598fefff426a0800000000000000
+      internalID: -6474768893694590087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b102d24a97e830800000000000000
+      internalID: 4100415597525972715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_71
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 120
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7405273aaabd560c0800000000000000
+      internalID: -4583015519846510521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6071cd83b6fa4160800000000000000
+      internalID: 7010687020993441903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d06c797b83ae1e0800000000000000
+      internalID: -2167857909448962790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d10199f8d159cf0800000000000000
+      internalID: -246258102036325094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c04964f10229b0800000000000000
+      internalID: -5106516878235219689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164e978f126c5a30800000000000000
+      internalID: 4205344039616005648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55811a36767e47f0800000000000000
+      internalID: -626433048005474979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe53b22f8f6f4360800000000000000
+      internalID: 7156060993468194556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_79
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef274accb75a28f0800000000000000
+      internalID: -564542334922444831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b517541d6e5fc00800000000000000
+      internalID: 933906284236856168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5261cdf566e0e4d0800000000000000
+      internalID: -3107230417162247587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_82
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327cad8c7cd51460800000000000000
+      internalID: 7211912805814661691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ec7428027e7eb0800000000000000
+      internalID: -4720209980140232039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b724008b9fd430800000000000000
+      internalID: 3809934783906558855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777aaa59b8657690800000000000000
+      internalID: -7605057250445854860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_86
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff7631d1fe23ff90800000000000000
+      internalID: -6921136586206314501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a7f3997af481b0800000000000000
+      internalID: -5655119831990031887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa7b64742260d60800000000000000
+      internalID: 7856004289518873258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb93cef437f5f10800000000000000
+      internalID: 2260652325066096629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964d69ad548bae20800000000000000
+      internalID: 3362927084571543196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e4a1ac25c648e0800000000000000
+      internalID: -1709462213059353821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5aeecc865c8900800000000000000
+      internalID: 688020005847719866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ac2dcce0297590800000000000000
+      internalID: -7676067888449674935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a3e1797315c1860800000000000000
+      internalID: 7501960378492795465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_95
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 39
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69adc35c017226b0800000000000000
+      internalID: -5322567511838971540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2990c5a2588ff0800000000000000
+      internalID: -33686125350932486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892e788231a3f5b50800000000000000
+      internalID: 6584045034197738136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_98
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbffc6db4e7d72e30800000000000000
+      internalID: 4478785731873800125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_99
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97328c651748dde50800000000000000
+      internalID: 6835765431740408697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edb020afe9229020800000000000000
+      internalID: 2346984464973872617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_101
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8023ffc5491a699f0800000000000000
+      internalID: -462004253171437048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfbc29f63ab4650800000000000000
+      internalID: 6218243410114640659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprout Lands defautlt palette snip_103
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a44686258497760800000000000000
+      internalID: 7456070176864488043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
