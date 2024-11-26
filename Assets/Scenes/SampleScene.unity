@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26d8c56b174e9424c935e9d8f9c712bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nightLightColor: {r: 0, g: 0, b: 0, a: 0}
+  nightLightColor: {r: 0.19708973, g: 0.21079835, b: 0.4056604, a: 1}
   nightTimeCurve:
     serializedVersion: 2
     m_Curve:
@@ -623,6 +623,7 @@ MonoBehaviour:
   dayLightColor: {r: 1, g: 1, b: 1, a: 1}
   timeScale: 600
   text: {fileID: 1511864271}
+  globalLight: {fileID: 21254364}
 --- !u!1 &354251470
 GameObject:
   m_ObjectHideFlags: 0
@@ -6506,7 +6507,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 123.21, y: 29.91}
+  m_AnchoredPosition: {x: 122.54, y: 29.38}
   m_SizeDelta: {x: 244.71, y: 58.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1511864271
@@ -6529,7 +6530,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 36
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
