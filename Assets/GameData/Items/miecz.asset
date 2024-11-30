@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: miecz
   m_EditorClassIdentifier: 
   Name: Miecz
-  stackable: 0
+  stackable: 1
   icon: {fileID: 21300000, guid: 4658269eaeb45eb4a8aca3e023bed817, type: 3}
