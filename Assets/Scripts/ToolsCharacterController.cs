@@ -11,6 +11,10 @@ public class ToolsCharacterController : MonoBehaviour
     [SerializeField] float sizeOfInteractableArea = 1.2f;
     [SerializeField] MarkerManager markerManager;
     [SerializeField] TileMapReadController tileMapReadController;
+    [SerializeField] float maxDistance = 1.5f;
+
+    Vector3Int selectTilePosition;
+    bool selectable;
 
     public void Awake()
     {
@@ -20,6 +24,8 @@ public class ToolsCharacterController : MonoBehaviour
 
     private void Update()
     {
+        SelectTile();
+        CanSelectCheck();
         Marker();
         if (Input.GetMouseButtonDown(0))
         {
@@ -27,10 +33,22 @@ public class ToolsCharacterController : MonoBehaviour
         }
     }
 
+    private void SelectTile()
+    {
+        selectTilePosition = tileMapReadController.GetGridPosition(Input.mousePosition, true);
+    }
+
+    void CanSelectCheck()
+    {
+        Vector2 characterPosition = transform.position;
+        Vector2 cameraPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        selectable = Vector2.Distance(characterPosition, cameraPosition) < maxDistance;
+        markerManager.Show(selectable);
+    }
+
     private void Marker()
     {
-        Vector3Int gridPosition = tileMapReadController.GetGridPosition(Input.mousePosition, true);
-        markerManager.markedCellPosition= gridPosition;
+        markerManager.markedCellPosition= selectTilePosition;
     }
 
     private void UseTool()

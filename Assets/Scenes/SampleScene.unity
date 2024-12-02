@@ -16613,6 +16613,7 @@ MonoBehaviour:
   sizeOfInteractableArea: 1.2
   markerManager: {fileID: 82430376}
   tileMapReadController: {fileID: 195242328}
+  maxDistance: 2
 --- !u!114 &1623834260
 MonoBehaviour:
   m_ObjectHideFlags: 0
