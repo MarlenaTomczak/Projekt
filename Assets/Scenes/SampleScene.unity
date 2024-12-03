@@ -1528,6 +1528,7 @@ GameObject:
   - component: {fileID: 195242326}
   - component: {fileID: 195242327}
   - component: {fileID: 195242328}
+  - component: {fileID: 195242329}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1700,6 +1701,21 @@ MonoBehaviour:
   tileDatas:
   - {fileID: 11400000, guid: 2f97be4b8a5093b45940e2af5035233b, type: 2}
   - {fileID: 11400000, guid: 80356fe4171f6364392c79eb42ee2655, type: 2}
+--- !u!114 &195242329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 195242321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc3d1c06e4ede4f4b9912d0463a34237, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  plowed: {fileID: 11400000, guid: 3817490416eb7664097dafe1c14e5c09, type: 2}
+  seeded: {fileID: 11400000, guid: e2cb7415127de7346a0ca93923560c0b, type: 2}
+  targetTilemap: {fileID: 1261979248}
 --- !u!1 &206638333
 GameObject:
   m_ObjectHideFlags: 0
@@ -14028,7 +14044,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1261979245}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 875809784}
