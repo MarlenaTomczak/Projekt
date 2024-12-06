@@ -3,13 +3,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ToolBarController : MonoBehaviour
+public class ToolBarController: MonoBehaviour
 {
     [SerializeField] int ToolBarSize = 7;
     int selectedTool;
 
     public Action<int> onChange;
 
+    public Item GetItem
+    {
+        get {
+            return GameManager.instance. inventoryContainer.slots[selectedTool].item;
+        }
+    }
     internal void Set(int id)
     {
         selectedTool = id;

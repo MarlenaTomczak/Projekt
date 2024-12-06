@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,4 +8,5 @@ public class Item: ScriptableObject
     public string Name;
     public bool stackable;
     public Sprite icon;
+    public ToolAction onAction;
 }
