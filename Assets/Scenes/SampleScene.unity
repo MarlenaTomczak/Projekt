@@ -249,6 +249,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 1
 --- !u!1 &5822839
 GameObject:
   m_ObjectHideFlags: 0
@@ -1483,7 +1484,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 3119042782207634128, guid: 0ffdaddafb3bce44288742965eb0738b,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1528,6 +1529,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: b08dc4b6d83851746bf5514ff9dbc21c, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 2
 --- !u!61 &183089992
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1826,9 +1828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tilemap: {fileID: 1996809769}
-  tileDatas:
-  - {fileID: 11400000, guid: 2f97be4b8a5093b45940e2af5035233b, type: 2}
-  - {fileID: 11400000, guid: 80356fe4171f6364392c79eb42ee2655, type: 2}
+  cropsManager: {fileID: 195242329}
 --- !u!114 &195242329
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2902,6 +2902,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 1
 --- !u!1 &370285185
 GameObject:
   m_ObjectHideFlags: 0
@@ -3103,6 +3104,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 1
 --- !u!1 &390161094
 GameObject:
   m_ObjectHideFlags: 0
@@ -10691,6 +10693,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 1
 --- !u!1 &712315521
 GameObject:
   m_ObjectHideFlags: 0
@@ -14468,6 +14471,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 1
 --- !u!1 &1304308820
 GameObject:
   m_ObjectHideFlags: 0
@@ -16900,8 +16904,6 @@ MonoBehaviour:
   markerManager: {fileID: 82430376}
   tileMapReadController: {fileID: 195242328}
   maxDistance: 2
-  cropsManager: {fileID: 195242329}
-  plowableTiles: {fileID: 11400000, guid: 80356fe4171f6364392c79eb42ee2655, type: 2}
 --- !u!114 &1623834260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24052,6 +24054,7 @@ MonoBehaviour:
   spread: 0.7
   item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
   itemCountInOneDrop: 1
+  nodeType: 1
 --- !u!1 &2136700500
 GameObject:
   m_ObjectHideFlags: 0

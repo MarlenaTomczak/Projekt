@@ -9,10 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3460586640ed8db47b540f75e9dde5ca, type: 3}
-  m_Name: drewno
+  m_Script: {fileID: 11500000, guid: 8b4b4a970f3bd67468ae0a6c98bb2c9b, type: 3}
+  m_Name: Seed Tile
   m_EditorClassIdentifier: 
-  Name: Drewno
-  stackable: 1
-  icon: {fileID: 6134250156721728216, guid: 2926d1829fbc2a948a396bc748c1054b, type: 3}
-  onAction: {fileID: 11400000, guid: 29c7b9ea557ef1242a426220c92fcc24, type: 2}

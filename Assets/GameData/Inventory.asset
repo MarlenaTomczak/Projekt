@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slots:
   - item: {fileID: 11400000, guid: b08dc4b6d83851746bf5514ff9dbc21c, type: 2}
-    count: 6
+    count: 24
   - item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
-    count: 38
+    count: 63
   - item: {fileID: 11400000, guid: 3995a562bc7b5c14485411d9ea28c24f, type: 2}
     count: 1
-  - item: {fileID: 0}
-    count: 0
-  - item: {fileID: 0}
-    count: 0
-  - item: {fileID: 0}
-    count: 0
+  - item: {fileID: 11400000, guid: 2a2cb8f9e3d5fb94fa15f2956495bad8, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: c80a9f453d885234c9143c8f80d8b478, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: da662962ee684a346a0f847f6376f139, type: 2}
+    count: 9999
   - item: {fileID: 0}
     count: 0
   - item: {fileID: 0}

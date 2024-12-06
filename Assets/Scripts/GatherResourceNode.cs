@@ -9,7 +9,7 @@ Tree,
 Ore
 }
 
-[CreateAssetMenu(menuName = "Data/Tool action/Gather Resource Node")]
+[CreateAssetMenu(menuName = "Data/ToolAction/Gather Resource Node")]
 
 public class GatherResourceNode : ToolAction
 {

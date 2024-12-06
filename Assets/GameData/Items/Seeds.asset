@@ -10,9 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3460586640ed8db47b540f75e9dde5ca, type: 3}
-  m_Name: drewno
+  m_Name: Seeds
   m_EditorClassIdentifier: 
-  Name: Drewno
+  Name: 
   stackable: 1
-  icon: {fileID: 6134250156721728216, guid: 2926d1829fbc2a948a396bc748c1054b, type: 3}
-  onAction: {fileID: 11400000, guid: 29c7b9ea557ef1242a426220c92fcc24, type: 2}
+  icon: {fileID: 8474670595409141939, guid: 41f99a1d4a6073b4abcf25a3ce28380d, type: 3}
+  onAction: {fileID: 0}
+  onTileMapAction: {fileID: 11400000, guid: 554e2588e6fb72c45b96d5f01c435fb5, type: 2}
+  OnItemUsed: {fileID: 11400000, guid: 554e2588e6fb72c45b96d5f01c435fb5, type: 2}

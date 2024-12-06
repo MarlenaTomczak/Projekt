@@ -9,7 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5cb82cd11b0cd6b43ac3461f972b49d9, type: 3}
-  m_Name: CutTrees
+  m_Script: {fileID: 11500000, guid: 3460586640ed8db47b540f75e9dde5ca, type: 3}
+  m_Name: Pickaxe
   m_EditorClassIdentifier: 
-  sizeOfInteractableArea: 1
+  Name: 
+  stackable: 0
+  icon: {fileID: 21300000, guid: ba4e4e19960765f44b5df57f1153eca5, type: 3}
+  onAction: {fileID: 11400000, guid: 11e6f35fabb82a34598b26fa386eb0e5, type: 2}
