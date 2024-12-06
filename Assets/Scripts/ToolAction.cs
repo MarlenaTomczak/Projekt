@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class ToolAction : ScriptableObject
+public class ToolAction : ScriptableObject
 {
 
     public virtual bool OnApply(Vector2 worldPoint)
