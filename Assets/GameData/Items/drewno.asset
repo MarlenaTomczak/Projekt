@@ -15,4 +15,6 @@ MonoBehaviour:
   Name: Drewno
   stackable: 1
   icon: {fileID: 6134250156721728216, guid: 2926d1829fbc2a948a396bc748c1054b, type: 3}
-  onAction: {fileID: 11400000, guid: 29c7b9ea557ef1242a426220c92fcc24, type: 2}
+  onAction: {fileID: 0}
+  onTileMapAction: {fileID: 0}
+  OnItemUsed: {fileID: 0}
