@@ -14,9 +14,11 @@ public class ToolsCharacterController : MonoBehaviour
     [SerializeField] MarkerManager markerManager;
     [SerializeField] TileMapReadController tileMapReadController;
     [SerializeField] float maxDistance = 1.5f;
+    [SerializeField] ToolAction onTilePickUp;
 
 
-    Vector3Int selectTilePosition;
+
+    Vector3Int selectedTilePosition;
     bool selectable;
 
     public void Awake()
@@ -43,7 +45,7 @@ public class ToolsCharacterController : MonoBehaviour
 
     private void SelectTile()
     {
-        selectTilePosition = tileMapReadController.GetGridPosition(Input.mousePosition, true);
+        selectedTilePosition = tileMapReadController.GetGridPosition(Input.mousePosition, true);
     }
 
     void CanSelectCheck()
@@ -56,7 +58,7 @@ public class ToolsCharacterController : MonoBehaviour
 
     private void Marker()
     {
-        markerManager.markedCellPosition= selectTilePosition;
+        markerManager.markedCellPosition= selectedTilePosition;
     }
 
     private bool UseToolWorld()
@@ -64,7 +66,10 @@ public class ToolsCharacterController : MonoBehaviour
         Vector2 position = rgbd2d.position + character.lastMotionVector * offsetDistance;
 
         Item item = toolbarController.GetItem;
-        if (item == null) { return false; }
+        if (item == null) { 
+            PickUpTile();
+            return false; 
+        }
         if (item.onAction == null) { return false; }
 
         bool complete = item.onAction. OnApply(position);
@@ -88,7 +93,7 @@ public class ToolsCharacterController : MonoBehaviour
             if (item == null) { return; }
             if (item.onTileMapAction == null) { return; }
 
-            bool complete = item.onTileMapAction.OnApplyToTileMap(selectTilePosition, tileMapReadController, item);
+            bool complete = item.onTileMapAction.OnApplyToTileMap(selectedTilePosition, tileMapReadController, item);
 
             if (complete == true)
             {
@@ -98,5 +103,12 @@ public class ToolsCharacterController : MonoBehaviour
                 }
             }
         }
+    }
+
+    private void PickUpTile()
+    {
+        if(onTilePickUp == null) { return; }
+
+        onTilePickUp.OnApplyToTileMap(selectedTilePosition, tileMapReadController, null);
     }
 }
