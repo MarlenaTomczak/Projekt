@@ -37,6 +37,18 @@ public class CropsManager : TimeAgent
     [SerializeField] TileBase plowed;
     [SerializeField] TileBase seeded;
     [SerializeField] Tilemap targetTilemap;
+    Tilemap TargetTilemap
+    {
+        get {
+            if (targetTilemap == null)
+            {
+                GameObject go = GameObject.Find("CropsTilemap"); 
+                if (go == null) { return null; }
+                targetTilemap = go.GetComponent<Tilemap>();
+            }
+            return targetTilemap;
+        }
+    }
     [SerializeField] GameObject cropsSpritePrefab;
 
     Dictionary<Vector2Int, CropTile> crops;
@@ -50,6 +62,8 @@ public class CropsManager : TimeAgent
 
     public void Tick()
     {
+        if (TargetTilemap == null) { return; }
+
         foreach (CropTile cropTile in crops.Values)
         {
             if(cropTile.crop == null) { continue; }
@@ -59,7 +73,7 @@ public class CropsManager : TimeAgent
             if(cropTile.damage > 1f)
             {
                 cropTile.Harvested();
-                targetTilemap.SetTile(cropTile.position, plowed);
+                TargetTilemap.SetTile(cropTile.position, plowed);
                 continue;
             }
 
@@ -83,11 +97,15 @@ public class CropsManager : TimeAgent
 
     public bool Check(Vector3Int position)
     {
+        if (TargetTilemap == null) { return false; }
+
         return crops.ContainsKey((Vector2Int)position);
     }
 
     public void Plow(Vector3Int position)
     {
+        if (TargetTilemap == null) { return; }
+
         if(crops.ContainsKey((Vector2Int)position))
         {
             return;
@@ -98,29 +116,35 @@ public class CropsManager : TimeAgent
 
     public void Seed(Vector3Int position, Crop toSeed)
     {
-        targetTilemap.SetTile(position, seeded);
+        if (TargetTilemap == null) { return; }
+
+        TargetTilemap.SetTile(position, seeded);
 
         crops[(Vector2Int)position].crop = toSeed;
     }
 
     private void CreatePlowedTile(Vector3Int position)
     {
+        if (TargetTilemap == null) { return; }
+
         CropTile crop = new CropTile();
         crops.Add((Vector2Int)position, crop);
 
         GameObject go = Instantiate(cropsSpritePrefab);
-        go.transform.position = targetTilemap.CellToWorld(position);
+        go.transform.position = TargetTilemap.CellToWorld(position);
         go.transform.position -= Vector3.forward * 0.01f;
         go.SetActive(false);
         crop.renderer = go.GetComponent<SpriteRenderer>();
 
         crop.position = position;
 
-        targetTilemap.SetTile(position, plowed);
+        TargetTilemap.SetTile(position, plowed);
     }
 
     internal void PickUp(Vector3Int gridPosition)
     {
+        if (TargetTilemap == null) { return; }
+
         Vector2Int position = (Vector2Int)gridPosition;
         if(crops.ContainsKey(position) == false) { return; }
 
@@ -128,9 +152,13 @@ public class CropsManager : TimeAgent
 
         if(cropTile.Complete)
         {
-            ItemSpawnMenager.instance.SpawnItem(targetTilemap.CellToWorld(gridPosition), cropTile.crop.field, cropTile.crop.count);
+            ItemSpawnMenager.instance.SpawnItem(
+                TargetTilemap.CellToWorld(gridPosition),
+                cropTile.crop.field,
+                cropTile.crop.count
+                );
 
-            targetTilemap.SetTile(gridPosition, plowed);
+            TargetTilemap.SetTile(gridPosition, plowed);
             cropTile.Harvested();
         }
     }

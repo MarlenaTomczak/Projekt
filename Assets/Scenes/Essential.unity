@@ -1345,7 +1345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfa9eef9b0d402441acfb1968fb71a37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tilemap: {fileID: 425808814}
+  tilemap: {fileID: 0}
   cropsManager: {fileID: 195242329}
 --- !u!114 &195242329
 MonoBehaviour:
@@ -6574,7 +6574,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.1841433, y: 1}
+    m_SensorSize: {x: 2.0682926, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -15532,10 +15532,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 20
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
