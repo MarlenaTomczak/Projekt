@@ -5,10 +5,11 @@ using UnityEngine;
 
 public class ToolBarController: MonoBehaviour
 {
-    [SerializeField] int ToolBarSize = 7;
+    [SerializeField] int toolBarSize = 7;
     int selectedTool;
 
     public Action<int> onChange;
+    [SerializeField] IconHighlight iconHighlight;
 
     public Item GetItem
     {
@@ -16,9 +17,11 @@ public class ToolBarController: MonoBehaviour
             return GameManager.instance. inventoryContainer.slots[selectedTool].item;
         }
     }
-    internal void Set(int id)
+
+    private void Start()
     {
-        selectedTool = id;
+        onChange += UpdateHighlightIcon;
+        UpdateHighlightIcon(selectedTool);
     }
 
     private void Update()
@@ -29,14 +32,35 @@ public class ToolBarController: MonoBehaviour
             if (delta > 0)
             {
                 selectedTool += 1;
-                selectedTool = (selectedTool >= ToolBarSize) ? 0 : selectedTool;
+                selectedTool = (selectedTool >= toolBarSize) ? 0 : selectedTool;
             }
             else
             {
                 selectedTool -= 1;
-                selectedTool = (selectedTool < 0) ? ToolBarSize - 1 : selectedTool;
+                selectedTool = (selectedTool < 0) ? toolBarSize - 1 : selectedTool;
             }
             onChange?.Invoke(selectedTool);
+        }
+    }
+
+    internal void Set(int id)
+    {
+        selectedTool = id;
+    }
+
+    void UpdateHighlightIcon(int id)
+    {
+        Item item = GetItem;
+        if (item == null)
+        {
+            iconHighlight.Show = false;
+            return;
+        }
+
+        iconHighlight.Show = item.iconHighlight;
+        if (item.iconHighlight)
+        {
+            iconHighlight.Set(item.icon);
         }
     }
 

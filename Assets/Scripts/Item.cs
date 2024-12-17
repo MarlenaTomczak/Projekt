@@ -12,4 +12,5 @@ public class Item: ScriptableObject
     public ToolAction onTileMapAction;
     public ToolAction OnItemUsed;
     public Crop crop;
+    public bool iconHighlight;
 }
