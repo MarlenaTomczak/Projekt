@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3460586640ed8db47b540f75e9dde5ca, type: 3}
   m_Name: Chest
   m_EditorClassIdentifier: 
-  Name: 
-  stackable: 0
-  icon: {fileID: 0}
+  Name: Chest
+  stackable: 1
+  icon: {fileID: -5281422124547630143, guid: 921a73f28cd224540a544067fdb45d85, type: 3}
   onAction: {fileID: 0}
   onTileMapAction: {fileID: 0}
   OnItemUsed: {fileID: 0}
   crop: {fileID: 0}
+  iconHighlight: 1

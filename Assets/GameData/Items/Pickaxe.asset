@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3460586640ed8db47b540f75e9dde5ca, type: 3}
   m_Name: Pickaxe
   m_EditorClassIdentifier: 
-  Name: 
+  Name: Pickaxe
   stackable: 1
   icon: {fileID: 21300000, guid: ba4e4e19960765f44b5df57f1153eca5, type: 3}
   onAction: {fileID: 11400000, guid: 11e6f35fabb82a34598b26fa386eb0e5, type: 2}
   onTileMapAction: {fileID: 0}
   OnItemUsed: {fileID: 0}
   crop: {fileID: 0}
+  iconHighlight: 1

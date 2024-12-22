@@ -19,3 +19,4 @@ MonoBehaviour:
   onTileMapAction: {fileID: 11400000, guid: be40a673853c7ef41ba5d21d13e04056, type: 2}
   OnItemUsed: {fileID: 0}
   crop: {fileID: 0}
+  iconHighlight: 1

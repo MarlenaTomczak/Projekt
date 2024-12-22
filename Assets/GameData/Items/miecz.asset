@@ -19,3 +19,4 @@ MonoBehaviour:
   onTileMapAction: {fileID: 0}
   OnItemUsed: {fileID: 0}
   crop: {fileID: 0}
+  iconHighlight: 1

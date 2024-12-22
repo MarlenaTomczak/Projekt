@@ -12,3 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c2e7a4a75c2f8f40be0ce2bc67561c2, type: 3}
   m_Name: SampleSceneCropsContainer
   m_EditorClassIdentifier: 
+  crops:
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    renderer: {fileID: 0}
+    damage: 0
+    position: {x: -2, y: -5, z: 0}
+  - growTimer: 0
+    growStage: 0
+    crop: {fileID: 0}
+    renderer: {fileID: 0}
+    damage: 0
+    position: {x: -3, y: -5, z: 0}

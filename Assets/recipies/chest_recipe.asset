@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da6ae59b1e03cfe47b17d4862e907780, type: 3}
   m_Name: chest_recipe
   m_EditorClassIdentifier: 
-  elements: []
-  output:
-    item: {fileID: 0}
+  elements:
+  - item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
     count: 0
+  output:
+    item: {fileID: 11400000, guid: 6a5721a85d787c448ac567e8965b5fbb, type: 2}
+    count: 1

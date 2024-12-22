@@ -15,3 +15,8 @@ MonoBehaviour:
   Name: "Kamie\u0144"
   stackable: 1
   icon: {fileID: 3119042782207634128, guid: 0ffdaddafb3bce44288742965eb0738b, type: 3}
+  onAction: {fileID: 0}
+  onTileMapAction: {fileID: 0}
+  OnItemUsed: {fileID: 0}
+  crop: {fileID: 0}
+  iconHighlight: 1
