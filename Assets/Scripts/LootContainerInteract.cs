@@ -8,6 +8,7 @@ public class LootContainerInteract : Interactable
     [SerializeField] GameObject Chest_Closed;
     [SerializeField] GameObject Chest_Opened;
     [SerializeField] bool isOpen;
+    [SerializeField] Item_Container item_Container;
     public override void Interact(Character character)
     {
         if (character == null)
@@ -28,7 +29,7 @@ public class LootContainerInteract : Interactable
             Chest_Closed.SetActive(false);
             Chest_Opened.SetActive(true);
 
-            character.GetComponent<ItemContainerInteractController>().Open();
+            character.GetComponent<ItemContainerInteractController>().Open(item_Container, transform);
         }
         else
         {
