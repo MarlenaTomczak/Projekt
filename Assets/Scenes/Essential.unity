@@ -16693,6 +16693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemContainerPanel: {fileID: 1711834046}
+  maxDistance: 2.5
 --- !u!114 &1623834265
 MonoBehaviour:
   m_ObjectHideFlags: 0

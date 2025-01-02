@@ -23,22 +23,30 @@ public class LootContainerInteract : Interactable
             Debug.LogError("ItemContainerInteractController is missing on the Character!");
             return;
         }
-        if (!isOpen) 
+        if (!isOpen)
         {
-            isOpen = true;
-            Chest_Closed.SetActive(false);
-            Chest_Opened.SetActive(true);
-
-            character.GetComponent<ItemContainerInteractController>().Open(item_Container, transform);
+            Open(character);
         }
         else
         {
-            isOpen = false;
-            Chest_Closed.SetActive(true);
-            Chest_Opened.SetActive(false);
-
-            character.GetComponent<ItemContainerInteractController>().Close();
+            Close(character);
         }
     }
+    public void Open(Character character)
+    {
+        isOpen = true;
+        Chest_Closed.SetActive(false);
+        Chest_Opened.SetActive(true);
 
+        character.GetComponent<ItemContainerInteractController>().Open(item_Container, transform);
+    }
+    public void Close(Character character)
+    {
+        isOpen = false;
+        Chest_Closed.SetActive(true);
+        Chest_Opened.SetActive(false);
+
+        character.GetComponent<ItemContainerInteractController>().Close();
+    }
 }
+

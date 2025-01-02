@@ -9,10 +9,9 @@ public class PlaceableObject
     public Item placedItem;
     public Transform targetObject;
     public Vector3Int positionOnGrid;
-    public PlaceableObject(Item item, Transform target, Vector3Int pos)
+    public PlaceableObject(Item item, Vector3Int pos)
     {
         placedItem = item;
-        targetObject = target;
         positionOnGrid = pos;
     }
 }
@@ -20,5 +19,15 @@ public class PlaceableObject
 [CreateAssetMenu(menuName ="Data/Placeable Objects Container")]
 public class PlaceableObjectContainer : ScriptableObject
 {
-    public List<PlaceableObject> placeableObject;   
+    public List<PlaceableObject> placeableObject;
+    
+    internal PlaceableObject Get(Vector3Int position)
+    {
+        return placeableObject.Find(x => x.positionOnGrid == position);
+    }
+
+    internal void Remove(PlaceableObject placedObject)
+    {
+        placeableObject.Remove(placedObject);
+    }
 }

@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: Inventory
   m_EditorClassIdentifier: 
   slots:
-  - item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
-    count: 420
-  - item: {fileID: 0}
-    count: 0
-  - item: {fileID: 0}
-    count: 0
+  - item: {fileID: 11400000, guid: 2a2cb8f9e3d5fb94fa15f2956495bad8, type: 2}
+    count: 2
   - item: {fileID: 11400000, guid: b08dc4b6d83851746bf5514ff9dbc21c, type: 2}
-    count: 420
+    count: 405
+  - item: {fileID: 11400000, guid: 3995a562bc7b5c14485411d9ea28c24f, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: da662962ee684a346a0f847f6376f139, type: 2}
+    count: 2
   - item: {fileID: 0}
     count: 0
   - item: {fileID: 0}
@@ -69,3 +69,4 @@ MonoBehaviour:
     count: 0
   - item: {fileID: 0}
     count: 0
+  isDirty: 0

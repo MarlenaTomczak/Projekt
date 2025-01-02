@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   elements:
   - item: {fileID: 11400000, guid: 3e365f6339ea69945835cc33eda99633, type: 2}
-    count: 0
+    count: 50
   output:
     item: {fileID: 11400000, guid: 6a5721a85d787c448ac567e8965b5fbb, type: 2}
     count: 1
