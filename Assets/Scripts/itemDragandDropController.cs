@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 
 public class itemDragandDropController : MonoBehaviour
 {
-    [SerializeField] ItemSlot itemSlot;
+    public ItemSlot itemSlot;
     [SerializeField] GameObject itemIcon;
     RectTransform iconTransform;
     Image itemIconImage;
@@ -39,6 +39,38 @@ public class itemDragandDropController : MonoBehaviour
            
        }
     }
+
+    internal void RemoveItem(int count = 1)
+    {
+        if (itemSlot == null) { return; }
+
+        if(itemSlot.item.stackable)
+        {
+            itemSlot.count -= count;
+            if(itemSlot.count <= 0)
+            {
+                itemSlot.Clear();
+            }
+        }
+        else {
+            itemSlot.Clear();
+        }
+        UpdateIcon();
+    }
+
+    public bool Check(Item item, int count = 1)
+    {
+        if (itemSlot == null) { return false; }
+
+        if (item.stackable)
+        {
+            return itemSlot.item == item && itemSlot.count >= count;
+        }
+
+        return itemSlot.item == item;
+    }
+
+
     internal void OnClick(ItemSlot itemSlot)
     {
         if(this.itemSlot.item == null)

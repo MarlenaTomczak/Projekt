@@ -34,6 +34,8 @@ public class PlaceableObjectManager : MonoBehaviour
 
     internal void PickUp(Vector3Int gridPosition)
     {
+        Debug.Log($"Trying to pick up object at grid position: {gridPosition}");
+
         PlaceableObject placedObject = placeableObjects.Get(gridPosition);
 
         if(placeableObjects == null)
@@ -41,6 +43,28 @@ public class PlaceableObjectManager : MonoBehaviour
             Debug.LogWarning("No object found at the given grid position.");    
             return;
         }
+
+        // Sprawdzenie, czy istnieje obiekt na tej pozycji
+        if (placedObject == null)
+        {
+            Debug.LogWarning("No object found at the given grid position.");
+            return;
+        }
+
+        // Sprawdzenie, czy instancja ItemSpawnMenager istnieje
+        if (ItemSpawnMenager.instance == null)
+        {
+            Debug.LogError("ItemSpawnMenager instance is null!");
+            return;
+        }
+
+        // Sprawdzenie, czy targetObject jest ustawiony
+        if (placedObject.targetObject == null)
+        {
+            Debug.LogError("Target object is null!");
+            return;
+        }
+
 
         ItemSpawnMenager.instance.SpawnItem(
             targetTilemap.CellToWorld(gridPosition),
