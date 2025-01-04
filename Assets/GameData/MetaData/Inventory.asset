@@ -20,9 +20,9 @@ MonoBehaviour:
   - item: {fileID: 11400000, guid: 3995a562bc7b5c14485411d9ea28c24f, type: 2}
     count: 1
   - item: {fileID: 11400000, guid: da662962ee684a346a0f847f6376f139, type: 2}
-    count: 2
+    count: 3
   - item: {fileID: 11400000, guid: 5fb79dce4f3c4f947b7cab240390debf, type: 2}
-    count: 1000
+    count: 100
   - item: {fileID: 0}
     count: 0
   - item: {fileID: 0}
