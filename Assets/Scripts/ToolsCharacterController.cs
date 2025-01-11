@@ -56,7 +56,7 @@ public class ToolsCharacterController : MonoBehaviour
         if (item == null) { return; }
         if (item.isWeapon == false) { return; }
 
-        attackController.Attack(item.damage);
+        attackController.Attack(item.damage, character.lastMotionVector);
     }
 
     private void SelectTile()
