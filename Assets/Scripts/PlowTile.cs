@@ -1,23 +1,29 @@
-﻿    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
-    using UnityEngine.Tilemaps;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Tilemaps;
 
-    [CreateAssetMenu(menuName ="Data/ToolAction/Plow") ]
+// Skrypt obsługujący akcję orania kafelków na siatce
+[CreateAssetMenu(menuName = "Data/ToolAction/Plow")]
+public class PlowTile : ToolAction
+{
+    // Lista kafelków, które można zaorać
+    [SerializeField] List<TileBase> canPlow;
 
-    public class PlowTile : ToolAction
+    // Metoda wywoływana podczas użycia narzędzia na siatce kafelków
+    public override bool OnApplyToTileMap(Vector3Int gridPosition, TileMapReadController tileMapReadController, Item item)
     {
-        [SerializeField] List<TileBase> canPlow;
-        
-        public override bool OnApplyToTileMap(Vector3Int gridPosition, TileMapReadController tileMapReadController, Item item)
-        {
-            TileBase tileToPlow = tileMapReadController.GetTileBase(gridPosition);
+        // Pobiera kafelek na pozycji siatki
+        TileBase tileToPlow = tileMapReadController.GetTileBase(gridPosition);
 
-            if (canPlow. Contains(tileToPlow) == false)
-            {
-                return false;
-            }
-            tileMapReadController.cropsManager.Plow(gridPosition);
-            return true;
+        // Sprawdza, czy kafelek znajduje się na liście możliwych do zaorania
+        if (canPlow.Contains(tileToPlow) == false)
+        {
+            return false; // Zwraca false, jeśli kafelek nie jest obsługiwany
         }
+
+        // Wywołuje oranie na pozycji siatki
+        tileMapReadController.cropsManager.Plow(gridPosition);
+        return true; // Zwraca true po udanej akcji
     }
+}

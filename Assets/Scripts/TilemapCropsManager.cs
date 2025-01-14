@@ -4,16 +4,18 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using System;
 
+// Skrypt zarządzający uprawami
 public class TilemapCropsManager : TimeAgent
 {
-    [SerializeField] TileBase plowed;
-    [SerializeField] TileBase seeded;
-    Tilemap targetTilemap;
-    [SerializeField] GameObject cropsSpritePrefab;
-    [SerializeField] CropsContainer container;
+    [SerializeField] TileBase plowed; // Kafelek zaorany
+    [SerializeField] TileBase seeded; // Kafelek obsiany
+    Tilemap targetTilemap; // Referencja do Tilemap
+    [SerializeField] GameObject cropsSpritePrefab; // Prefab do wyświetlania upraw
+    [SerializeField] CropsContainer container; // Kontener przechowujący dane o uprawach
 
     private void Start()
     {
+        // Inicjalizacja menedżera upraw
         GameManager.instance.GetComponent<CropsManager>().cropsManager = this;
         targetTilemap = GetComponent<Tilemap>();
         onTimeTick += Tick;
@@ -23,6 +25,7 @@ public class TilemapCropsManager : TimeAgent
 
     private void VisualizeMap()
     {
+        // Wizualizuje wszystkie kafelki na mapie
         for (int i = 0; i < container.crops.Count; i++)
         {
             VisualizeTile(container.crops[i]);
@@ -31,6 +34,7 @@ public class TilemapCropsManager : TimeAgent
 
     private void OnDestroy()
     {
+        // Czyszczenie rendererów przy usuwaniu obiektu
         for (int i = 0; i < container.crops.Count; i++)
         {
             container.crops[i].renderer = null;
@@ -41,28 +45,29 @@ public class TilemapCropsManager : TimeAgent
     {
         if (targetTilemap == null) { return; }
 
+        // Aktualizacja stanu upraw w każdej jednostce czasu
         foreach (CropTile cropTile in container.crops)
         {
-            if(cropTile.crop == null) { continue; }
+            if (cropTile.crop == null) { continue; }
 
             cropTile.damage += 0.02f;
 
-            if(cropTile.damage > 1f)
+            if (cropTile.damage > 1f)
             {
                 cropTile.Harvested();
                 targetTilemap.SetTile(cropTile.position, plowed);
                 continue;
             }
 
-            if(cropTile.Complete)
+            if (cropTile.Complete)
             {
                 Debug.Log("I'm done growing");
                 continue;
             }
-            
+
             cropTile.growTimer += 1;
 
-            if(cropTile.growTimer >= cropTile.crop.growthStageTime[cropTile.growStage])
+            if (cropTile.growTimer >= cropTile.crop.growthStageTime[cropTile.growStage])
             {
                 cropTile.renderer.gameObject.SetActive(true);
                 cropTile.renderer.sprite = cropTile.crop.sprites[cropTile.growStage];
@@ -74,17 +79,20 @@ public class TilemapCropsManager : TimeAgent
 
     internal bool Check(Vector3Int position)
     {
+        // Sprawdza, czy na danej pozycji istnieje kafelek w kontenerze
         return container.Get(position) != null;
     }
 
     public void Plow(Vector3Int position)
     {
+        // Zaoruje kafelek, jeśli nie jest zajęty
         if (Check(position) == true) { return; }
         CreatePlowedTile(position);
     }
 
     public void Seed(Vector3Int position, Crop toSeed)
     {
+        // Siać rośliny na danym kafelku
         CropTile tile = container.Get(position);
 
         if (tile == null) { return; }
@@ -96,6 +104,7 @@ public class TilemapCropsManager : TimeAgent
 
     public void VisualizeTile(CropTile cropTile)
     {
+        // Wizualizacja kafelka upraw
         targetTilemap.SetTile(cropTile.position, cropTile.crop != null ? seeded : plowed);
 
         if (cropTile.renderer == null)
@@ -117,7 +126,7 @@ public class TilemapCropsManager : TimeAgent
 
     private void CreatePlowedTile(Vector3Int position)
     {
-
+        // Tworzy zaorany kafelek
         CropTile crop = new CropTile();
         container.Add(crop);
 
@@ -130,17 +139,18 @@ public class TilemapCropsManager : TimeAgent
 
     internal void PickUp(Vector3Int gridPosition)
     {
+        // Zbiera plony z danego kafelka
         Vector2Int position = (Vector2Int)gridPosition;
         CropTile tile = container.Get(gridPosition);
         if (tile == null) { return; }
 
-        if(tile.Complete)
+        if (tile.Complete)
         {
             ItemSpawnMenager.instance.SpawnItem(
                 targetTilemap.CellToWorld(gridPosition),
                 tile.crop.field,
                 tile.crop.count
-                );
+            );
 
             tile.Harvested();
             VisualizeTile(tile);
