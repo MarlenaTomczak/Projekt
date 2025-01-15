@@ -9168,7 +9168,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0938272, y: 1}
+    m_SensorSize: {x: 1.7135803, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -17655,6 +17655,7 @@ GameObject:
   - component: {fileID: 1623834263}
   - component: {fileID: 1623834264}
   - component: {fileID: 1623834265}
+  - component: {fileID: 1623834266}
   m_Layer: 0
   m_Name: "g\u0142\xF3wna_posta\u0107"
   m_TagString: Player
@@ -17910,6 +17911,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb975e35119793040a203e1901d79d2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1623834266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1623834252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 843dddab9fb6efd4aacced010f17d184, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetDistance: 1.2
+  attackAreaSize: {x: 1, y: 1}
 --- !u!1 &1630200088
 GameObject:
   m_ObjectHideFlags: 0

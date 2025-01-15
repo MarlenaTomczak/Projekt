@@ -20,3 +20,6 @@ MonoBehaviour:
   OnItemUsed: {fileID: 0}
   crop: {fileID: 0}
   iconHighlight: 1
+  itemPrefab: {fileID: 0}
+  isWeapon: 1
+  damage: 10
